@@ -1,0 +1,140 @@
+/* #body>div:nth-child(1) {
+    width: 15%;
+    /* border: 2px solid yellowgreen; */
+    /* padding-left: 20px; */
+}
+
+#body>div:nth-child(2) {
+    /* width: 81%; */
+    /* border: 2px solid yellowgreen; */
+}
+
+#body>div:nth-child(1)>div {
+    border: 1px solid rgb(241,240,243);
+    border-bottom: 1px solid rgb(241,240,243);
+    padding-left: 10px;
+}
+
+#body>div:nth-child(1)>div>h4 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#body>div:nth-child(1)>div>input,
+label {
+    margin-bottom: 10px;
+}
+/* Right Div */
+#product {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+#product>div {
+    width: 18%;
+    height: 370px;
+}
+#product>div:hover{
+    border: 1px solid black;
+}
+#product>div>img {
+    width: 100%;
+    height: 75%;
+}
+
+#product>div>h4,p {
+    margin-left: 20px;
+    margin-bottom: 4px;
+}
+#product>div>h4{
+    color: rgb(34, 84, 125);
+}
+#product>div>p{
+    color: rgb(74, 66, 133);
+    font-weight: 500;
+} */
+
+
+
+
+<div class="imgsize">
+                    <img src="https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20201262/2023/3/21/5dbc0eaa-07d3-48c8-90a9-ae901e7a40ab1679389127442-Levis-Men-Lounge-Tshirts-4171679389126809-1.jpg"
+                        title="Levis Men Pack of 2 Smartskin Technology Pure Cotton V-Neck Lounge T-shirt"
+                        >
+                    <!-- <h4>Puma</h4>
+                    <p>Tshirt</p>
+                    <h4>3000</h4> -->
+                </div>
+                <div class="imgsize">
+                    <img src="https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20201262/2023/3/21/5dbc0eaa-07d3-48c8-90a9-ae901e7a40ab1679389127442-Levis-Men-Lounge-Tshirts-4171679389126809-1.jpg"
+                        title="Levis Men Pack of 2 Smartskin Technology Pure Cotton V-Neck Lounge T-shirt"
+                        >
+                    <!-- <h4>Adidas</h4>
+                    <p>Tshirt</p>
+                    <h4>4000</h4> -->
+                </div>
+                <div class="imgsize">
+                    <img src="https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20201262/2023/3/21/5dbc0eaa-07d3-48c8-90a9-ae901e7a40ab1679389127442-Levis-Men-Lounge-Tshirts-4171679389126809-1.jpg"
+                        title="Levis Men Pack of 2 Smartskin Technology Pure Cotton V-Neck Lounge T-shirt"
+                        >
+                    <!-- <h4>Puma</h4>
+                    <p>Tshirt</p>
+                    <h4>3000</h4> -->
+                </div>
+                <div class="imgsize">
+                    <img src="https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20201262/2023/3/21/5dbc0eaa-07d3-48c8-90a9-ae901e7a40ab1679389127442-Levis-Men-Lounge-Tshirts-4171679389126809-1.jpg"
+                        title="Levis Men Pack of 2 Smartskin Technology Pure Cotton V-Neck Lounge T-shirt"
+                        >
+                    <!-- <h4>Adidas</h4>
+                    <p>Tshirt</p>
+                    <h4>4000</h4> -->
+                </div>
+                <div class="imgsize">
+                    <img src="https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20201262/2023/3/21/5dbc0eaa-07d3-48c8-90a9-ae901e7a40ab1679389127442-Levis-Men-Lounge-Tshirts-4171679389126809-1.jpg"
+                        title="Levis Men Pack of 2 Smartskin Technology Pure Cotton V-Neck Lounge T-shirt"
+                        >
+                    <!-- <h4>Adidas</h4>
+                    <p>Tshirt</p>
+                    <h4>4000</h4> -->
+                </div>
+                <div class="imgsize">
+                    <img src="https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20201262/2023/3/21/5dbc0eaa-07d3-48c8-90a9-ae901e7a40ab1679389127442-Levis-Men-Lounge-Tshirts-4171679389126809-1.jpg"
+                        title="Levis Men Pack of 2 Smartskin Technology Pure Cotton V-Neck Lounge T-shirt"
+                        >
+                    <!-- <h4>Puma</h4>
+                    <p>Tshirt</p>
+                    <h4>3000</h4> -->
+                </div>
+                <div class="imgsize">
+                    <img src="https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20201262/2023/3/21/5dbc0eaa-07d3-48c8-90a9-ae901e7a40ab1679389127442-Levis-Men-Lounge-Tshirts-4171679389126809-1.jpg"
+                        title="Levis Men Pack of 2 Smartskin Technology Pure Cotton V-Neck Lounge T-shirt"
+                        >
+                    <!-- <h4>Adidas</h4>
+                    <p>Tshirt</p>
+                    <h4>4000</h4> -->
+                </div>
+                <div class="imgsize">
+                    <img src="https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20201262/2023/3/21/5dbc0eaa-07d3-48c8-90a9-ae901e7a40ab1679389127442-Levis-Men-Lounge-Tshirts-4171679389126809-1.jpg"
+                        title="Levis Men Pack of 2 Smartskin Technology Pure Cotton V-Neck Lounge T-shirt"
+                        >
+                    <!-- <h4>Puma</h4>
+                    <p>Tshirt</p>
+                    <h4>3000</h4> -->
+                </div>
+                <div class="imgsize">
+                    <img src="https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20201262/2023/3/21/5dbc0eaa-07d3-48c8-90a9-ae901e7a40ab1679389127442-Levis-Men-Lounge-Tshirts-4171679389126809-1.jpg"
+                        title="Levis Men Pack of 2 Smartskin Technology Pure Cotton V-Neck Lounge T-shirt"
+                        >
+                    <!-- <h4>Adidas</h4>
+                    <p>Tshirt</p>
+                    <h4>4000</h4> -->
+                </div>
+                <div class="imgsize">
+                    <img src="https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/20201262/2023/3/21/5dbc0eaa-07d3-48c8-90a9-ae901e7a40ab1679389127442-Levis-Men-Lounge-Tshirts-4171679389126809-1.jpg"
+                        title="Levis Men Pack of 2 Smartskin Technology Pure Cotton V-Neck Lounge T-shirt"
+                        >
+                    <!-- <h4>adidas</h4>
+                    <p>Tshirt</p>
+                    <h4>4000</h4> -->
+                </div>
