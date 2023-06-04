@@ -1,0 +1,189 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Assistant, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+
+#screen {
+    width: 100%;
+    /* border: 1px solid black; */
+}
+
+#navbar {
+    width: 100%;
+    /* border: 2px solid black; */
+    /* height: 70px; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#logo {
+    width: 9%;
+    /* border: 2px solid red; */
+    margin-left: 5px;
+}
+
+#navi {
+    width: 40%;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5px;
+    /* word-spacing: 15px; */
+}
+
+#search {
+    /* border: 1px solid brown; */
+    width: 30%;
+    height: 100%;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+#search>div>i {
+    position: absolute;
+    top: 18px;
+    left: 10px;
+    color: gray;
+}
+
+#search>div>input {
+    width: 370px;
+    height: 35px;
+    padding-left: 45px;
+    border: none;
+    background-color: #f5f5f6;
+}
+
+#profile {
+    width: 15%;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 12px;
+   text-align: center;
+}
+#wish {
+    width: 25%;
+    /* align-items: center; */
+    /* border: 2px solid blue; */
+}
+
+#cart {
+    width: 25%;
+    /*  align-items: center; */
+    /* border: 2px solid blue; */
+}
+#body{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(253,239,234);
+    border: 1px solid white;
+    /* align-items: center; */
+}
+#login{
+    width: 30%;
+    height: 500px;
+    border: 1px solid red;
+    margin: auto;
+    /* margin: 100px 20px; */
+    margin-top: 100px; 
+}
+#top{
+    width: 100%;
+    height: 150px;
+    border: 1px solid black;
+}
+#top>div{
+    width: 100%;
+    height: 100%;
+}
+#top>div>img{
+    width: 100%;
+    height: 100%;
+}
+#bottom{
+    width: 100%;
+    height: 350px;
+    border: 1px solid black;
+}
+#bottom>h3{
+    margin: 10px 10px;
+}
+#bottom>form>div>input{
+    margin: 10px 15px;
+    line-height: 20px;
+}
+#bottom>div{
+    margin-bottom: 20px;
+}
+#name{
+    width: 90%;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+#name>span{
+    padding: 7px 10px;
+}
+#name>input{
+    border-style: none;
+    outline: none;
+    background-color:rgb(253,239,234) ;
+}
+#name{
+    display: flex;
+}
+#password{
+    width: 90%;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+#password>span{
+    padding: 7px 10px;
+}
+#password>input{
+    border-style: none;
+    outline: none;
+    background-color:rgb(253,239,234) ;
+}
+#password{
+    display: flex;
+}
+#confirmpassword{
+    width: 90%;
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+#confirmpassword>span{
+    padding: 7px 10px;
+}
+#confirmpassword>input{
+    border-style: none;
+    outline: none;
+    background-color:rgb(253,239,234) ;
+}
+#confirmpassword{
+    display: flex;
+}
+#bottom>p{
+    padding-left: 20px;
+}
+#btn{
+    width: 80%;
+    height: 40px;
+    margin: auto;
+    border: 1px solid black;
+    align-items: center;
+}
+button{
+    padding: auto;
+}
